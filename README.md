@@ -111,5 +111,3 @@ jupyter notebook
 ## License & Contact
 
 This repository does not include a license file. Add a `LICENSE` if you plan to share.
-
-For questions or requests, open an issue or contact the project owner.
